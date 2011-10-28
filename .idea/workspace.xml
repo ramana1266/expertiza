@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7db2c103-e8b3-4ccd-ba6d-b316a8add25b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/expertiza.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/craken/raketab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/authlogic_and_access_control_notes.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/add_advice.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/add_participants.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/add_participants_to_assignment.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/assign_assignment_to_course.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/assign_reviewers_by_csv.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/assign_reviewers_csv.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/create_a_course.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/create_a_rubric.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/create_a_team.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/create_assignment.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/create_course.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/create_signup_sheet.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/create_teams_from_import.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/create_users.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/delete_a_course.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/delete_assignment.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/delete_review.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/delete_reviewer.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/edit_rubric.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/edit_signup_sheet.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/edit_topic_date.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/manage_login_users.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/register_a_course.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/signup_for_topic.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/submit_metareview.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/submit_work_to_assignment.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/view_scores.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/samples/view_scores_for_assignment.feature.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/info_600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/Copy-icon-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/Copy-icon-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/Copy-icon-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/Copy-icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-2-icon-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-2-icon-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-2-icon-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-2-icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-assignment-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-assignment-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-participant-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-private-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-private-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-private.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-public-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-public-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-signup-sheet-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-signup-sheet-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-ta-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/add-ta-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/assign-course-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/assign-course-96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/assign-course-blue-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/assign-course-green-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/assign-reviewers-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/assign-reviewers-96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/assign-survey-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/assign-survey-96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/create-teams-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/create-teams-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/delete-icon-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/delete-icon-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/delete-icon-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/delete-icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/edit-icon-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/edit-icon-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/edit-icon-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/edit-icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/edit-signup-sheet-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/edit-signup-sheet-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/lock-disabled-icon-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/lock-disabled-icon-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/lock-disabled-icon-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/lock-disabled-icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/lock-off-disabled-icon-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/lock-off-disabled-icon-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/lock-off-disabled-icon-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/lock-off-disabled-icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/remove-from-course-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/remove-from-course-96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/view-publish-rights-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/view-publish-rights-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/view-review-report-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/view-review-report-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/view-scores-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/view-scores-64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/view-suggestion-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/view-suggestion-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/view-survey-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tree_view/view-survey-96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/user_import.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/.specification" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/README_FOR_HEROKU_ADDON.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/SUPPORTED_RAILS_VERSIONS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/MIT-LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/images/redbox_spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Capfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/dynamic_review_assignment_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/user_session.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/assignment/_review_strategy.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/mailer/partials/_user_welcome_html.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/mailer/partials/_user_welcome_plain.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/publishing/grant.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/response/_checkbox.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/response/_checkboxes.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/response/_rating.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/response/_textarea.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/response/_textfield.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/response/_textfield_inline.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/response/custom_response.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/response/custom_response_2011.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/response/upload.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/review_mapping/_list_review_mappings.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/review_mapping/_submitted_files.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/review_mapping/show_available_submissions.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/sign_up_sheet/view_publishing_rights.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/student_review/_set_dynamic_metareview.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/student_review/_set_dynamic_review.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/student_review/_set_self_review.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/submitted_content/_title.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/keys.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cucumber.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/deploy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/cucumber.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/hoptoad.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/request_forgery_protection_mod.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/preinitializer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20101018010541_digital_signature.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20101018010542_set_permission_for_user_keys.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20101116184601_add_potential_response_deadline_to_response_maps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20101116184602_add_dynamic_review_fields_to_assignments.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20101117031216_permission_for_add_dynamic_reviewer_action.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20101128192024_add_persistence_token_to_user.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20101205034327_add_self_selected_review_fields.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20101214034327_update_review_fields.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20101222143748_add_notification_accepted_to_response_map.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20110205220301_submit_multiple_hyperlinks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20110210160753_remove_dynamic_reviewer_assignments_enabled_from_assignments.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20110304054311_remove_topic_from_participants.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20110323134426_drop_review_and_mapping_strategies.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20110324001445_permission_for_review_mapping.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20110407154154_permission_for_metareview_assignment.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20110408190423_create_drop_due_date.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20110410232719_topic_review_threshold.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20110512155258_rename_drop_topic.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/assignment_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/authentication_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/team_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/web_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/student/team_invites.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/support/env.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/support/paths.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/mime_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/background_email_reminder.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/cucumber.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/db_diagram.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/hoptoad_notifier_tasks.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/rbeautify.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/cucumber" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/password_retrieval_controller_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/roster.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/controller_actions_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/menu_item_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/role_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/site_controller_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/TESTING.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/generators/hoptoad/hoptoad_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/generators/hoptoad/lib/insert_commands.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/generators/hoptoad/lib/rake_commands.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/generators/hoptoad/templates/capistrano_hook.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/generators/hoptoad/templates/hoptoad_notifier_tasks.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/generators/hoptoad/templates/initializer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/backtrace.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/capistrano.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/configuration.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/notice.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/rack.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/rails.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/rails3_tasks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/rails/action_controller_catcher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/rails/controller_methods.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/rails/error_lookup.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/rails/javascript_notifier.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/railtie.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/sender.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/shared_tasks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/tasks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/user_informer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_notifier/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/hoptoad_tasks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/rails/generators/hoptoad/hoptoad_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/templates/javascript_notifier.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/lib/templates/rescue.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/rails/init.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/script/integration_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/backtrace_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/catcher_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/configuration_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/hoptoad_tasks_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/javascript_notifier_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/logger_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/notice_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/notifier_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/rack_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/rails_initializer_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/sender_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/test/user_informer_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/README.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/init.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/lib/craken.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/lib/enumeration.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/lib/raketab.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/lib/tasks/craken.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/recipes/craken.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/spec/craken_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/spec/enumeration_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/craken/spec/raketab_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/init.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/install.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/javascripts/redbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/lib/redbox.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/lib/redbox_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/lib/tasks/redbox_tasks.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/stylesheets/redbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/redbox/test/redbox_test.rb" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\.loadpath" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\.project" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\app\models\login.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\app\models\mapping_strategy.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\app\models\pg_user.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\app\models\review_strategy.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\app\views\layouts\institution.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\app\views\layouts\suggestion.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\app\views\mailer\message.text.html.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\app\views\mailer\message.text.plain.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\app\views\response\saving.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\doc\AdministrationDocumentation.doc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\doc\E-MAIL REMINDERS.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\doc\README_FOR_APP" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\doc\README_GOLDBERG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\doc\Restart Instructions for Expertiza.doc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\script\breakpointer" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\script\performance\request" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\script\process\inspector" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\script\process\reaper" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\script\process\spawner" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\ContentPage.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\author_feedback_questionnaires.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\course_evaluation_questionnaires.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\courses_users.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\feedback_mappings.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\global_survey_questionnaires.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\mapping_strategies.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\metareview_questionnaires.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\questionnaire_folder_nodes.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\review_feedbacks.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\review_mappings.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\review_of_review_mappings.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\review_of_review_scores.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\review_of_reviews.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\review_questionnaires.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\review_scores.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\review_strategies.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\reviews.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\rubrics.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\signup_resubmission_quotas.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\survey_questionnaires.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\teammate_review_mappings.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\teammate_review_questionnaires.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\functional\courses_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\functional\eula_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\functional\export_file_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\functional\profile_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\functional\response_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\functional\review_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\functional\student_review_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\functional\student_task_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\functional\submitted_content_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\integration\questionnaire_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\integration\rubric_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\course_evaluation_questionnaire_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\courses_users_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\deadline_type_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\feedback_mapping_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\global_survey_questionnaire_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\metareview_questionnaire_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\questionnaire_folder_node_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\review_feedback_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\review_mapping_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\review_of_review_mapping_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\review_of_review_score_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\review_of_review_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\review_questionnaire_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\review_score_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\review_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\signup_resubmission_quota_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\survey_questionnaire_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\teammate_review_mapping_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\unit\teammate_review_questionnaire_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\._CHANGELOG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\._LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\._init.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\._lib" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\CHANGELOG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\init.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\lib\patches.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\lib\spawn.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\spawn\lib\spawnhelper.rb" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\app\views\mailer\message.erb" afterPath="$PROJECT_DIR$/app/views/mailer/message.html.erb" />
+      <change type="MOVED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\doc\README" afterPath="$PROJECT_DIR$/doc/Rails.README" />
+      <change type="MOVED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\doc\Ta UserDoc.doc" afterPath="$PROJECT_DIR$/doc/TA instructions.doc" />
+      <change type="MOVED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\test\fixtures\assignments_questionnaires.yml" afterPath="$PROJECT_DIR$/test/fixtures/assignment_questionnaires.yml" />
+      <change type="MOVED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\gc4r\tasks\gc4r_tasks.rake" afterPath="$PROJECT_DIR$/vendor/plugins/gc4r/lib/tasks/gc4r_tasks.rake" />
+      <change type="MOVED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\goldberg_filters\tasks\goldberg_filters_tasks.rake" afterPath="$PROJECT_DIR$/vendor/plugins/goldberg_filters/lib/tasks/goldberg_filters_tasks.rake" />
+      <change type="MOVED" beforePath="C:\Users\malladi\RubymineProjects\expertiza\vendor\plugins\goldberg_routes\tasks\goldberg_routes_tasks.rake" afterPath="$PROJECT_DIR$/vendor/plugins/goldberg_routes/lib/tasks/goldberg_routes_tasks.rake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/about" afterPath="$PROJECT_DIR$/script/about" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/console" afterPath="$PROJECT_DIR$/script/console" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/dbconsole" afterPath="$PROJECT_DIR$/script/dbconsole" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/destroy" afterPath="$PROJECT_DIR$/script/destroy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/generate" afterPath="$PROJECT_DIR$/script/generate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/performance/benchmarker" afterPath="$PROJECT_DIR$/script/performance/benchmarker" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/performance/profiler" afterPath="$PROJECT_DIR$/script/performance/profiler" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/plugin" afterPath="$PROJECT_DIR$/script/plugin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/runner" afterPath="$PROJECT_DIR$/script/runner" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/server" afterPath="$PROJECT_DIR$/script/server" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/MIT-LICENSE" afterPath="$PROJECT_DIR$/vendor/gems/hoptoad_notifier-2.4.4/MIT-LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/admin_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/admin_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/assignment_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/assignment_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/assignment_signups_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/assignment_signups_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/auth_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/auth_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/controller_actions_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/controller_actions_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/course_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/course_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/grades_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/grades_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/impersonate_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/impersonate_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/import_file_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/import_file_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/invitation_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/invitation_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/participant_choices_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/participant_choices_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/participants_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/participants_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/password_retrieval_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/password_retrieval_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/pg_users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/pg_users_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/popup_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/popup_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/profile_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/profile_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/publishing_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/publishing_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/questionnaire_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/questionnaire_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/questions_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/questions_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/response_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/response_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/review_mapping_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/review_mapping_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sign_up_sheet_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sign_up_sheet_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/student_review_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/student_review_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/student_task_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/student_task_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/student_team_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/student_team_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/submitted_content_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/submitted_content_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/survey_deployment_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/survey_deployment_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/survey_response_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/survey_response_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/tree_display_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/tree_display_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/dynamic_review_mapping.rb" afterPath="$PROJECT_DIR$/app/helpers/dynamic_review_mapping.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/file_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/file_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/import_file_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/import_file_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/participants_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/participants_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/questionnaire_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/questionnaire_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/submitted_content_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/submitted_content_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/survey_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/survey_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/administrator.rb" afterPath="$PROJECT_DIR$/app/models/administrator.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/assignment.rb" afterPath="$PROJECT_DIR$/app/models/assignment.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/assignment_participant.rb" afterPath="$PROJECT_DIR$/app/models/assignment_participant.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/assignment_team.rb" afterPath="$PROJECT_DIR$/app/models/assignment_team.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/course.rb" afterPath="$PROJECT_DIR$/app/models/course.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/course_participant.rb" afterPath="$PROJECT_DIR$/app/models/course_participant.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/credentials.rb" afterPath="$PROJECT_DIR$/app/models/credentials.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/due_date.rb" afterPath="$PROJECT_DIR$/app/models/due_date.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/feedback_response_map.rb" afterPath="$PROJECT_DIR$/app/models/feedback_response_map.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/institution.rb" afterPath="$PROJECT_DIR$/app/models/institution.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/leaderboard.rb" afterPath="$PROJECT_DIR$/app/models/leaderboard.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/mailer.rb" afterPath="$PROJECT_DIR$/app/models/mailer.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/participant.rb" afterPath="$PROJECT_DIR$/app/models/participant.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/response.rb" afterPath="$PROJECT_DIR$/app/models/response.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/response_map.rb" afterPath="$PROJECT_DIR$/app/models/response_map.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/role.rb" afterPath="$PROJECT_DIR$/app/models/role.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/score_cache.rb" afterPath="$PROJECT_DIR$/app/models/score_cache.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/sign_up_topic.rb" afterPath="$PROJECT_DIR$/app/models/sign_up_topic.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/signed_up_user.rb" afterPath="$PROJECT_DIR$/app/models/signed_up_user.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/topic_deadline.rb" afterPath="$PROJECT_DIR$/app/models/topic_deadline.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/assignment/_assignment.html.erb" afterPath="$PROJECT_DIR$/app/views/assignment/_assignment.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/assignment/_content.html.erb" afterPath="$PROJECT_DIR$/app/views/assignment/_content.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/assignment/_due_dates.html.erb" afterPath="$PROJECT_DIR$/app/views/assignment/_due_dates.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/assignment/_rubrics.html.erb" afterPath="$PROJECT_DIR$/app/views/assignment/_rubrics.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/assignment/associate_assignment_to_course.html.erb" afterPath="$PROJECT_DIR$/app/views/assignment/associate_assignment_to_course.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/assignment/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/assignment/edit.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/assignment/new.html.erb" afterPath="$PROJECT_DIR$/app/views/assignment/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/assignment/show.html.erb" afterPath="$PROJECT_DIR$/app/views/assignment/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/auth/_login.html.erb" afterPath="$PROJECT_DIR$/app/views/auth/_login.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/course/view_teaching_assistants.html.erb" afterPath="$PROJECT_DIR$/app/views/course/view_teaching_assistants.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/course_participants/list.html.erb" afterPath="$PROJECT_DIR$/app/views/course_participants/list.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/courses_users/list.html.erb" afterPath="$PROJECT_DIR$/app/views/courses_users/list.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/grades/_participant.html.erb" afterPath="$PROJECT_DIR$/app/views/grades/_participant.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/grades/_reviews.html.erb" afterPath="$PROJECT_DIR$/app/views/grades/_reviews.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/grades/_submitted_files.html.erb" afterPath="$PROJECT_DIR$/app/views/grades/_submitted_files.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/grades/conflict_notification.html.erb" afterPath="$PROJECT_DIR$/app/views/grades/conflict_notification.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/leaderboard/_top3LeaderBoards.html.erb" afterPath="$PROJECT_DIR$/app/views/leaderboard/_top3LeaderBoards.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/mailer/partials/_send_password_html.html.erb" afterPath="$PROJECT_DIR$/app/views/mailer/partials/_send_password_html.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/mailer/partials/_send_password_plain.html.erb" afterPath="$PROJECT_DIR$/app/views/mailer/partials/_send_password_plain.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/participants/change_handle.html.erb" afterPath="$PROJECT_DIR$/app/views/participants/change_handle.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/participants/list.html.erb" afterPath="$PROJECT_DIR$/app/views/participants/list.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/profile/_handle.html.erb" afterPath="$PROJECT_DIR$/app/views/profile/_handle.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/publishing/view.html.erb" afterPath="$PROJECT_DIR$/app/views/publishing/view.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/questionnaire/delete_questionnaire.html.erb" afterPath="$PROJECT_DIR$/app/views/questionnaire/delete_questionnaire.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/questionnaire/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/questionnaire/edit.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/questionnaire/edit_questionnaire.html.erb" afterPath="$PROJECT_DIR$/app/views/questionnaire/edit_questionnaire.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/response/response.html.erb" afterPath="$PROJECT_DIR$/app/views/response/response.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/response/view.html.erb" afterPath="$PROJECT_DIR$/app/views/response/view.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/review_mapping/_report.html.erb" afterPath="$PROJECT_DIR$/app/views/review_mapping/_report.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/review_mapping/list.html.erb" afterPath="$PROJECT_DIR$/app/views/review_mapping/list.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/review_mapping/list_mappings.html.erb" afterPath="$PROJECT_DIR$/app/views/review_mapping/list_mappings.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/review_mapping/select_mapping.html.erb" afterPath="$PROJECT_DIR$/app/views/review_mapping/select_mapping.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared_scripts/_user_list.html.erb" afterPath="$PROJECT_DIR$/app/views/shared_scripts/_user_list.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sign_up_sheet/_due_dates.html.erb" afterPath="$PROJECT_DIR$/app/views/sign_up_sheet/_due_dates.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sign_up_sheet/_topic_names.html.erb" afterPath="$PROJECT_DIR$/app/views/sign_up_sheet/_topic_names.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sign_up_sheet/add_signup_topics_staggered.html.erb" afterPath="$PROJECT_DIR$/app/views/sign_up_sheet/add_signup_topics_staggered.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sign_up_sheet/signup_topics.html.erb" afterPath="$PROJECT_DIR$/app/views/sign_up_sheet/signup_topics.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/student_review/_responses.html.erb" afterPath="$PROJECT_DIR$/app/views/student_review/_responses.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/student_review/list.html.erb" afterPath="$PROJECT_DIR$/app/views/student_review/list.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/student_task/list.html.erb" afterPath="$PROJECT_DIR$/app/views/student_task/list.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/student_task/others_work.html.erb" afterPath="$PROJECT_DIR$/app/views/student_task/others_work.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/student_task/view.html.erb" afterPath="$PROJECT_DIR$/app/views/student_task/view.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/submitted_content/_hyperlink.html.erb" afterPath="$PROJECT_DIR$/app/views/submitted_content/_hyperlink.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/submitted_content/_main.html.erb" afterPath="$PROJECT_DIR$/app/views/submitted_content/_main.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/submitted_content/_submitted_files.html.erb" afterPath="$PROJECT_DIR$/app/views/submitted_content/_submitted_files.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/submitted_content/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/submitted_content/edit.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/submitted_content/view.html.erb" afterPath="$PROJECT_DIR$/app/views/submitted_content/view.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/survey_deployment/list.html.erb" afterPath="$PROJECT_DIR$/app/views/survey_deployment/list.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/survey_response/create.html.erb" afterPath="$PROJECT_DIR$/app/views/survey_response/create.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/survey_response/view_responses.html.erb" afterPath="$PROJECT_DIR$/app/views/survey_response/view_responses.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/team/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/team/_form.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/team/create_teams_view.html.erb" afterPath="$PROJECT_DIR$/app/views/team/create_teams_view.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/team/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/team/edit.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/team/new.html.erb" afterPath="$PROJECT_DIR$/app/views/team/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/tree_display/actions/_assignments_actions.html.erb" afterPath="$PROJECT_DIR$/app/views/tree_display/actions/_assignments_actions.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/tree_display/actions/_assignments_folder_actions.html.erb" afterPath="$PROJECT_DIR$/app/views/tree_display/actions/_assignments_folder_actions.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/tree_display/actions/_courses_actions.html.erb" afterPath="$PROJECT_DIR$/app/views/tree_display/actions/_courses_actions.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/tree_display/actions/_courses_folder_actions.html.erb" afterPath="$PROJECT_DIR$/app/views/tree_display/actions/_courses_folder_actions.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/tree_display/actions/_questionnaire_types_actions.html.erb" afterPath="$PROJECT_DIR$/app/views/tree_display/actions/_questionnaire_types_actions.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/tree_display/actions/_questionnaires_actions.html.erb" afterPath="$PROJECT_DIR$/app/views/tree_display/actions/_questionnaires_actions.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/tree_display/actions/_shared_actions.html.erb" afterPath="$PROJECT_DIR$/app/views/tree_display/actions/_shared_actions.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/_password.html.erb" afterPath="$PROJECT_DIR$/app/views/users/_password.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/_user.html.erb" afterPath="$PROJECT_DIR$/app/views/users/_user.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/list.html.erb" afterPath="$PROJECT_DIR$/app/views/users/list.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/show.html.erb" afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/boot.rb" afterPath="$PROJECT_DIR$/config/boot.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environment.rb" afterPath="$PROJECT_DIR$/config/environment.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/mime_types.rb" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/082_add_new_questionnaire_types.rb" afterPath="$PROJECT_DIR$/db/migrate/082_add_new_questionnaire_types.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/application.js" afterPath="$PROJECT_DIR$/public/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/textareasizer.js" afterPath="$PROJECT_DIR$/public/javascripts/textareasizer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/layout.css" afterPath="$PROJECT_DIR$/public/stylesheets/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/assignments.yml" afterPath="$PROJECT_DIR$/test/fixtures/assignments.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/content_pages.yml" afterPath="$PROJECT_DIR$/test/fixtures/content_pages.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/due_dates.yml" afterPath="$PROJECT_DIR$/test/fixtures/due_dates.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/goldberg_system_settings.yml" afterPath="$PROJECT_DIR$/test/fixtures/goldberg_system_settings.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/participants.yml" afterPath="$PROJECT_DIR$/test/fixtures/participants.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/question_advices.yml" afterPath="$PROJECT_DIR$/test/fixtures/question_advices.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/questionnaires.yml" afterPath="$PROJECT_DIR$/test/fixtures/questionnaires.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/response_maps.yml" afterPath="$PROJECT_DIR$/test/fixtures/response_maps.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/roles.yml" afterPath="$PROJECT_DIR$/test/fixtures/roles.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/site_controllers.yml" afterPath="$PROJECT_DIR$/test/fixtures/site_controllers.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/admin_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/admin_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/assignment_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/assignment_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/auth_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/auth_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/course_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/course_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/grade_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/grade_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/impersonate_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/impersonate_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/import_file_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/import_file_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/institutions_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/institutions_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/pg_users_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/pg_users_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/publishing_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/publishing_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/questionnaire_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/questionnaire_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/functional/users_controller_test.rb" afterPath="$PROJECT_DIR$/test/functional/users_controller_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/assignment_participant_test.rb" afterPath="$PROJECT_DIR$/test/unit/assignment_participant_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/assignment_test.rb" afterPath="$PROJECT_DIR$/test/unit/assignment_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/author_feedback_questionnaire_test.rb" afterPath="$PROJECT_DIR$/test/unit/author_feedback_questionnaire_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/course_test.rb" afterPath="$PROJECT_DIR$/test/unit/course_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/deadline_right_test.rb" afterPath="$PROJECT_DIR$/test/unit/deadline_right_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/due_date_test.rb" afterPath="$PROJECT_DIR$/test/unit/due_date_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/institution_test.rb" afterPath="$PROJECT_DIR$/test/unit/institution_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/language_test.rb" afterPath="$PROJECT_DIR$/test/unit/language_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/late_policy_test.rb" afterPath="$PROJECT_DIR$/test/unit/late_policy_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/participant_test.rb" afterPath="$PROJECT_DIR$/test/unit/participant_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/question_test.rb" afterPath="$PROJECT_DIR$/test/unit/question_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/questionnaire_test.rb" afterPath="$PROJECT_DIR$/test/unit/questionnaire_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/response_map_test.rb" afterPath="$PROJECT_DIR$/test/unit/response_map_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/response_test.rb" afterPath="$PROJECT_DIR$/test/unit/response_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/resubmission_time_test.rb" afterPath="$PROJECT_DIR$/test/unit/resubmission_time_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/team_test.rb" afterPath="$PROJECT_DIR$/test/unit/team_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/user_test.rb" afterPath="$PROJECT_DIR$/test/unit/user_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/plugins/goldberg_filters/lib/goldberg_filters.rb" afterPath="$PROJECT_DIR$/vendor/plugins/goldberg_filters/lib/goldberg_filters.rb" />
+    </list>
+    <ignored path="expertiza.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="expertiza" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dispatch.cgi" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/dispatch.cgi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="500.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/500.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="14" selection-start="193" selection-end="193" vertical-scroll-proportion="0.29238328">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="24" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/vendor/plugins/craken/lib/craken.rb" />
+        <option value="$PROJECT_DIR$/Rakefile" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/assignment_controller.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Favorites" />
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="environments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expertiza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
+    <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager" selected="Rails.Development: expertiza">
+    <configuration default="false" name="db:migrate" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
+      <module name="expertiza" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:migrate" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Development: expertiza" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="expertiza" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="C:\Users\malladi\RubymineProjects\expertiza" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Production: expertiza" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="expertiza" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="C:\Users\malladi\RubymineProjects\expertiza" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="spec" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="expertiza" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="expertiza" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Rake.db:migrate" />
+      <item index="1" class="java.lang.String" itemvalue="Rails.Development: expertiza" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: expertiza" />
+      <item index="3" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="4" class="java.lang.String" itemvalue="Rake.test" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="true">C:\Users\malladi\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7db2c103-e8b3-4ccd-ba6d-b316a8add25b" name="Default" comment="" />
+      <created>1318988904984</created>
+      <updated>1318988904984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.88483375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33576643" sideWeight="0.6707882" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/controllers/questions_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="49" selection-start="2312" selection-end="2312" vertical-scroll-proportion="0.7493858">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/response_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="254" column="0" selection-start="8725" selection-end="8725" vertical-scroll-proportion="0.74111676">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/sign_up_sheet_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="626" column="0" selection-start="24912" selection-end="24912" vertical-scroll-proportion="0.74111676">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/student_review_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="0" selection-start="3269" selection-end="3269" vertical-scroll-proportion="0.74111676">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/student_task_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="20" selection-start="4985" selection-end="4985" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/submitted_content_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="239" column="0" selection-start="8724" selection-end="8724" vertical-scroll-proportion="0.74111676">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="11" selection-start="3885" selection-end="3885" vertical-scroll-proportion="0.043147206">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/dispatch.cgi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="1" selection-start="134" selection-end="134" vertical-scroll-proportion="0.08401977">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/assignment_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="24" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="193" selection-end="193" vertical-scroll-proportion="0.29238328">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -2,10 +2,6 @@ class AssignmentSignupsController < ApplicationController
 require 'aquarium'
 
 
-scaffold :signup_sheets
-scaffold :assignments
-scaffold :participants
-
   def index
     list
     render :action => 'list'
@@ -21,7 +17,7 @@ scaffold :participants
 
   def listuser
     @user_id = session[:user].id  
-    if (User.find_by_id(session[:user].id).role_id == 1)
+    if (session[:user].role_id == 1)
       @signups= SignupSheet.find_by_sql("select * from signup_sheets where assignment_id in (select assignment_id from participants where user_id = "+session[:user].id.to_s+")")
     else
       @signups= SignupSheet.find_by_sql("select * from signup_sheets")

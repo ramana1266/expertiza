@@ -1,11 +1,14 @@
 
 class ParticipantChoicesController < ApplicationController
+<<<<<<< HEAD
   require 'aquarium'
   
   scaffold :signup_choices 
   scaffold :waitlists
   scaffold :participants
   scaffold :assignment_signups
+=======
+>>>>>>> master
   
   def index
     list
